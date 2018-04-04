@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+
+	<dictionary name="Животные" engname="Animals" key="Animals" reverse-title="Переведите на английский язык:" direct-title="Переведите на русский язык:">
+	    <item type="direct reverse">
+		    <leftcol>аист</leftcol>
+			<rightcol>stork</rightcol>
+        </item>
+		
+	    <item type="direct reverse">
+		    <leftcol>акула</leftcol>
+			<rightcol>shark</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>антилопа</leftcol>
+			<rightcol>antelope</rightcol>
+        </item>
+        
+ 	    <item type="direct reverse">
+		    <leftcol>бабочка</leftcol>
+			<rightcol>butterfly</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>баран</leftcol>
+			<rightcol>ram</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>барсук</leftcol>
+			<rightcol>badger</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>белка</leftcol>
+			<rightcol>squirrel</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>белый медведь</leftcol>
+			<rightcol>polar bear</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>бобр</leftcol>
+			<rightcol>beaver</rightcol>
+        </item>
+        
+ 	    <item type="direct reverse">
+		    <leftcol>божья коровка</leftcol>
+			<rightcol>ladybird</rightcol>
+        </item>
+        
+	</dictionary>
+    
+	<dictionary name="8 вопросительных слов" engname="The 8 question words" key="8_question_words" reverse-title="Переведите на английский язык:" direct-title="Переведите на русский язык:">
+	    <item type="direct reverse">
+		    <leftcol>что? какой?</leftcol>
+			<rightcol>what?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>почему?</leftcol>
+			<rightcol>why?</rightcol>
+        </item>
+		
+	    <item type="direct reverse">
+		    <leftcol>где? куда?</leftcol>
+			<rightcol>where?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>как?</leftcol>
+			<rightcol>how?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>как долго?</leftcol>
+			<rightcol>how long?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>который?</leftcol>
+			<rightcol>which?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>кто?</leftcol>
+			<rightcol>who?</rightcol>
+        </item>
+        
+	    <item type="direct reverse">
+		    <leftcol>когда?</leftcol>
+			<rightcol>when?</rightcol>
+        </item>
+		
+		
+	</dictionary>
+    
+ 
+
+</database>
